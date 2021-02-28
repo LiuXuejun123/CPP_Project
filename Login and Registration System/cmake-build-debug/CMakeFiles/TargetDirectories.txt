@@ -1,0 +1,3 @@
+C:/Users/liu/Desktop/CPP_Project/Login and Registration System/cmake-build-debug/CMakeFiles/Login_and_Registration_System.dir
+C:/Users/liu/Desktop/CPP_Project/Login and Registration System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liu/Desktop/CPP_Project/Login and Registration System/cmake-build-debug/CMakeFiles/rebuild_cache.dir

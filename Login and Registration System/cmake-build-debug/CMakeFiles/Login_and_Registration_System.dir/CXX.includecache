@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liu/Desktop/CPP_Project/Login and Registration System/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+cstdlib
+-
+
