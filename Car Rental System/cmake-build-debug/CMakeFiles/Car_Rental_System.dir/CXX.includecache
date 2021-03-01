@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liu/Desktop/CPP_Project/Car Rental System/main.cpp
+iostream
+-
+fstream
+-
+conio.h
+-
+stdlib.h
+-
+unistd.h
+-
+dos.h
+-
+iomanip
+-
+
